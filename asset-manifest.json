@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Sugan125/Chitra-Textiles/static/css/main.7331dc20.css",
+    "main.js": "/Sugan125/Chitra-Textiles/static/js/main.28905e93.js",
+    "index.html": "/Sugan125/Chitra-Textiles/index.html",
+    "main.7331dc20.css.map": "/Sugan125/Chitra-Textiles/static/css/main.7331dc20.css.map",
+    "main.28905e93.js.map": "/Sugan125/Chitra-Textiles/static/js/main.28905e93.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7331dc20.css",
+    "static/js/main.28905e93.js"
+  ]
+}
